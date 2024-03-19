@@ -13,9 +13,9 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "color-convert": "versao_desejada",
     "preact": "^10.19.1",
-    "react-router-dom": "^6.20.0",
-    "color-convert": "versao_desejada"
+    "react-router-dom": "^6.20.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.6.0",
