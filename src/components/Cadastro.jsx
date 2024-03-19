@@ -1,7 +1,7 @@
 // #region inputs
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './cadastro.css';
+import './Cadastro.css';
 // #endregion
 
 // #region enviando dados para api POST - retornando usuariocadastrado
