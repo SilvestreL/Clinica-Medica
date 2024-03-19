@@ -1,7 +1,7 @@
 // #region imports
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './login.css';
+import './Login.css';
 // #endregion
 
 const Login = () => {
